@@ -34,7 +34,7 @@ Deep learning image classifier for cats and dogs.
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mithravindau&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MithravindaU&show_icons=true&theme=tokyonight)
 
 ---
 
