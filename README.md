@@ -180,9 +180,9 @@ Autonomous Systems
 
 ## 🤝 Connect With Me
 
-GitHub: MithravindaU
+GitHub: https://github.com/MithravindaU
 
-LinkedIn: Mithravinda U
+LinkedIn: in/mithra-vinda-u-
 
 ---
 
