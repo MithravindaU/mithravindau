@@ -44,10 +44,11 @@ Deep learning image classifier for cats and dogs.
 - Deep Learning
 - Data Visualization
 - AI System Design
+- Robotics
 
 ---
 
 # 📫 Connect With Me
 
-- LinkedIn
+- LinkedIn : in/mithra-vinda-u-
 - Portfolio Website
