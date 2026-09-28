@@ -182,7 +182,9 @@ Autonomous Systems
 
 GitHub: https://github.com/MithravindaU
 
-LinkedIn: in/mithra-vinda-u-
+LinkedIn: https://www.linkedin.com/in/mithra-vinda-u-/
+
+portfolio: https://mithravindau.github.io/mithravindau/
 
 ---
 
