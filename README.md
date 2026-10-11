@@ -56,79 +56,65 @@ I'm currently exploring **Machine Learning, Big Data, Computer Vision, Robotics,
 
 ## 🚀 Featured Projects
 
-### 🚀 Scalable Sentiment Analysis
+🌤️ Find the Better Moment
 
-**1.6M Twitter Posts · PySpark · TF-IDF · Random Forest**
+Finding a better time to travel, not just a route.
 
-A large-scale sentiment analysis project exploring how machine learning works when the dataset grows beyond the usual notebook-sized experiments.
+A project that explores how route information, weather, and travel timing can be combined to help people choose a better time for a journey.
 
-**Highlights**
-- Processed 1.6M Twitter posts
-- Used Apache Spark / PySpark
-- TF-IDF based text representation
-- Random Forest classification
-- Interactive single-text sentiment prediction
+FastAPI backend
 
-`Big Data` `NLP` `Apache Spark` `Machine Learning`
+Route and weather information
 
----
+Time-window comparison
 
-### 🛡️ FraudShield AI
+A scoring system for comparing travel conditions
 
-**Credit Card Fraud Detection · Random Forest · SMOTE**
+I'm interested in taking this further and making the recommendations more useful in real-world situations.
 
-A machine learning project focused on detecting fraudulent transactions in a highly imbalanced dataset.
+Python FastAPI APIs Decision Logic
 
-**Explored**
-- Class imbalance
-- SMOTE oversampling
-- Random Forest
-- Confusion matrices
-- ROC-AUC
-- Feature importance
-- Model comparison
+📊 Scalable Sentiment Analysis
 
-`Classification` `SMOTE` `Random Forest` `Model Evaluation`
+1.6 million tweets · PySpark · Random Forest
 
----
+A sentiment analysis project built using the Sentiment140 dataset. I used Spark to process the data, TF-IDF to represent the text, and Random Forest for classification.
 
-### 🤖 DOF Explorer
+Text preprocessing with PySpark
 
-**Interactive 3-DOF Robot Arm Simulator**
+TF-IDF feature extraction
 
-A Python-based robotic arm simulator for exploring **degrees of freedom, joint movement, forward kinematics, and end-effector positioning**.
+Random Forest classification
 
-Built using interactive controls and real-time visualization.
+Interactive sentiment prediction
 
-`Robotics` `Kinematics` `Python` `NumPy` `Matplotlib`
+Test accuracy of 66.52%
 
----
+This project helped me understand how a machine learning workflow changes when working with a much larger dataset.
 
+Big Data NLP Apache Spark Machine Learning
 
+🛡️ FraudShield AI
 
-### 🎬 CineMatch AI
+Credit Card Fraud Detection
 
-**Content-Based Movie Recommendation System**
+A machine learning project exploring fraud detection on a highly imbalanced dataset.
 
-A lightweight recommendation system using movie text features to find similar movies.
+I experimented with Random Forest, SMOTE, model evaluation, confusion matrices, ROC-AUC, and feature importance.
 
-**Techniques**
-- CountVectorizer
-- Cosine similarity
-- Content-based recommendation
+One thing I found interesting was how changing the handling of class imbalance affected the model's results.
 
-`Recommendation Systems` `NLP` `Similarity`
+Python Scikit-learn SMOTE Classification
 
----
+🦾 DOF Explorer
 
-### 📈 GradeForecast ML
+A robot arm you can actually play around with.
 
-**Student Performance Prediction**
+An interactive 3-DOF robot arm simulator where joint angles can be changed to see how the arm moves and how its end-effector position changes.
 
-An educational ML project exploring how different regression models can be used to predict student performance from factors such as study hours, attendance, and sleep.
+Built while exploring robot kinematics and visualization.
 
-`Regression` `Scikit-learn` `Machine Learning`
-
+Python NumPy Matplotlib Robotics
 ---
 
 ## 🔬 Other Experiments
@@ -153,9 +139,6 @@ I'm also exploring AI through hardware and robotics.
 - Path planning
 - MediaPipe hand gestures
 - Python ↔ ESP32 communication
-
-### Electric Bike Project
-Working on the software side of a competition project focused on **pothole detection and avoidance** for an electric bike.
 
 These projects are helping me understand how AI moves from code and datasets into physical systems.
 
