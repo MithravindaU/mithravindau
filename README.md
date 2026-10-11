@@ -56,7 +56,7 @@ I'm currently exploring **Machine Learning, Big Data, Computer Vision, Robotics,
 
 ## 🚀 Featured Projects
 
-🌤️ Find the Better Moment
+## 🌤️ Find the Better Moment
 
 Finding a better time to travel, not just a route.
 
@@ -74,7 +74,7 @@ I'm interested in taking this further and making the recommendations more useful
 
 Python FastAPI APIs Decision Logic
 
-📊 Scalable Sentiment Analysis
+## 📊 Scalable Sentiment Analysis
 
 1.6 million tweets · PySpark · Random Forest
 
@@ -94,7 +94,7 @@ This project helped me understand how a machine learning workflow changes when w
 
 Big Data NLP Apache Spark Machine Learning
 
-🛡️ FraudShield AI
+## 🛡️ FraudShield AI
 
 Credit Card Fraud Detection
 
@@ -106,7 +106,7 @@ One thing I found interesting was how changing the handling of class imbalance a
 
 Python Scikit-learn SMOTE Classification
 
-🦾 DOF Explorer
+## 🦾 DOF Explorer
 
 A robot arm you can actually play around with.
 
