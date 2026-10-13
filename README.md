@@ -159,8 +159,8 @@ Autonomous Systems
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MithravindaU&show_icons=true&hide_border=true&bg_color=F6F1E8&title_color=243D32&text_color=46584A&icon_color=B54470" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithravindaU&layout=compact&hide_border=true&bg_color=F6F1E8&title_color=74344D&text_color=46584A&langs_count=6" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MithravindaU&show_icons=true&hide_border=true&theme=transparent" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithravindaU&layout=compact&hide_border=true&theme=transparent&custom_colors=3776AB,E34F26,F37626,F89820,F7DF1E,563D7C" height="165" />
 </div>
 ---
 
